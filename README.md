@@ -1,6 +1,6 @@
 Create a website that displays recipes
 
-This will demonstrate what I have learned
+This will demonstrate what I learned from The Odin Project
 
 Creating HTTP code
 Inserting text
